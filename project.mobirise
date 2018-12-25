@@ -444,7 +444,7 @@
           "title1": "국민도서관 책꽂이 상담전화",
           "title2": "문의 이메일",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:82-31-906-1587\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
           "_tags": [
             "Theme"
           ],
