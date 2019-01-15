@@ -539,7 +539,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">국민도서관 책꽂이 사이트로</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">키핑안내 페이지로</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">국민도서관 책꽂이 사이트로</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"http://keeping.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">키핑안내 페이지로</a>",
           "_tags": [
             "Theme"
           ],
