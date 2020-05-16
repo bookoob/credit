@@ -511,15 +511,9 @@ a:hover {
 .hamburger-icon:after {
   background-color: #5aac98;
 }
-#header4-4 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#header4-4 .mbr-table-cell {
-  vertical-align: middle;
-}
-#header4-4 .heading-title {
-  color: #ffd785;
+#features2-5 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
 }
 #content7-5 .mbr-section-title,
 #content7-5 .mbr-section-subtitle {
@@ -536,30 +530,6 @@ a:hover {
 #content7-5 .heading-title {
   color: #2d2d2d;
   font-size: 36px;
-}
-#header5-3 .mbr-section-title,
-#header5-3 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#header5-3 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#header5-3 .mbr-table-cell {
-  vertical-align: middle;
-}
-#content7-6 .mbr-section-title,
-#content7-6 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
-}
-#content7-6 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content7-6 .mbr-table-cell {
-  vertical-align: middle;
 }
 #counters1-7 .count {
   color: #74a3c7;

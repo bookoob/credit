@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "국민도서관 광고 랜딩페이지",
+    "name": "국민도서관 대여광고 랜딩페이지",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -32,7 +32,7 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/bookoob-logo-140by140-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -40,9 +40,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "국민도서관: 크레딧으로 돈벌기",
-        "meta_descr": "이스트몹-센드애니웨어 광고의 국민도서관 책꽂이 랜딩 페이지입니다.",
-        "header_custom": "<meta property=\"og:title\" content=\"도서공유하고 114만원 벌었다!\"/>\n\t<meta property=\"og:image\" content=\"https://res.cloudinary.com/bookoob/image/upload/f_auto,q_auto/v1545716203/Visittoday_aiobkl.png\" />\n\t<meta property=\"og:site_name\" content=\"국민도서관 책꽂이\"/>\n\t<meta property=\"og:description\" content=\"크레딧으로 114만원을 번 국도 회원의 이야기.\"/>\n\t<meta property=\"og:url\" content=\"https://bookoob.github.io/credit/\"/>\n\n<meta name=\"twitter:card\" content=\"summary_large_image\"/>\n\t<meta name=\"twitter:description\" content=\"크레딧으로 114만원을 번 국도 회원의 이야기.\"/>\n\n\t<meta name=\"twitter:title\" content=\"국민도서관 책꽂이: 세상에서 제일 큰 우리들의 공유도서관\"/>\n\n\t<meta name=\"twitter:image\" content=\"https://res.cloudinary.com/bookoob/image/upload/f_auto,q_auto/v1545716203/Visittoday_aiobkl.png\"/>\n\t<meta name=\"twitter:site\" content=\"@bookoob3000\"/>\n\t<meta name=\"twitter:creator\" content=\"@bookoob3000\"/>\n\n\n\n\n\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n\n\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/56bb2a342fd271b630faf77a/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->\n\n<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '2020985031461216');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=2020985031461216&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n",
+        "title": "국민도서관 책꽂이 도서대여",
+        "meta_descr": "국민도서관 책꽂이는 비접촉 언택트 안심 온라인 도서관입니다. 한번에 15권을 60일간 택배로 편리하게 집에서 빌려보세요!",
+        "header_custom": "\n\t<meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n\t<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\t<meta name=\"description\" content=\"공유경제 철학에 근간한 국민도서관 책꽂이는 세계 최초의 공유형 도서관으로서, 전국 어디든 (도서지방 제외) 60일간 최대 25권까지 왕복택배비 만으로 도서를 대여해주고 있으며, 도서관 서가를 개인들의 도서보관을 위한 공간으로 제공해 주고 전문적으로 책을 관리해 줌으로써, 많은 책으로 인해 공간의 부담을 느끼는 애서가들에게 매우 유용한 서비스로 자리잡고 있습니다.\" />\n\t<meta name=\"keywords\" content=\"책대여,책대여점,온라인 책대여,책대여  사이트,온라인 도서대여,도서대여,도서대여점,책정리,책정리법,책 정리 방법,도서정리,공유경제,온라인 도서관,국민도서관\" />\n\n\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/56bb2a342fd271b630faf77a/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->\n\n<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '2020985031461216');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=2020985031461216&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -52,36 +52,145 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "contentAlign": "center",
+            "inverse": true,
             "showArrow": true,
+            "imageSize": "53",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#bdb39a",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#264a54",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
           },
-          "title": "<b>2020년 독서생활<br>15권까지 대여비 무료로!</b>",
-          "text": "온라인 공유도서관인 국민도서관 책꽂이의 14만5천권이 넘는 장서 가운데에서<br>읽고 싶은 책을 마음 껏 고르세요.&nbsp;한 번에 15권까지 2달간, 무료로 택배를 통해 빌려드려요.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-danger\" href=\"https://www.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>국민도서관 책꽂이로 이동 &nbsp;</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rental-landing-backgrownd-4-1200x628.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "돈걱정 없는\n<div>독서생활\n</div><div>이제 당신도!</div>",
+          "text": "책읽기 만큼은 아무런 부담없이 자유롭게 할 수 있어야 합니다.<br>국민도서관 책꽂이를 통해 자유를 만끽해보세요!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>국민도서관 책꽂이로 이동&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-4",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
+          "_name": "header3",
+          "_anchor": "header3-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "left",
+            "columns": "4",
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
-            ".heading-title": {
-              "color": "#ffd785"
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "이렇게 쓰세요",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "한번에 15권까지",
+          "subtitle1": "Awesome",
+          "text1": "돈걱정 없이 15권까지 한 번에 빌릴 수 있습니다. <b>장서는 무료 15만권! </b>20여만원 어치의 책을 무료로 빌려보세요!",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "대여기간은 60일!",
+          "subtitle2": "Awesome",
+          "text2": "한번 대여하면 60일동안 읽을 수 있습니다. 기간이 부족하면 30일 추가연장도 가능!&nbsp;",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "대여와 반납은 택배로",
+          "subtitle3": "Awesome",
+          "text3": "전국 어디서든 택배로 받고, 반납도 사이트에서 버튼 한 번만 클릭하면 도서관에서 택배를 보내드립니다.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "택배비만 듭니다",
+          "subtitle4": "Awesome",
+          "text4": "<b>대여료는 무료!</b> 독서의 즐거움을 누리기 위해 당신에게 필요한 것은 다만 왕복택배비 뿐입니다.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-5",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           }
         },
@@ -130,208 +239,6 @@
           "_anchor": "content7-5"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/000-1201x502.png",
-            "parallax": false,
-            "bgColorRadio": false,
-            "containerColor1": "#084a6e",
-            "containerColor2": "#24a383",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "맡겨놓은 책이 대여되어 114만원!",
-          "text": "국민도서관 책꽂이에 책을 맡기는 것을 키핑 keeping 이라고 합니다. 키핑된 책은 모두 함께 공유하게 됩니다. 책이 대여될 때, 1만원 단위로 정산받을 수 있는 크레딧이 발생합니다. 114만원 번 분의 이야기를 살펴보세요. 그리고 키핑에 대한 자세한 정보는 키핑안내 페이지로 이동해보세요!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://blog.naver.com/davinchi4/221292127985\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>114만원번 내용 블로그 보기&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://keeping.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 253);\"></span>키핑안내 페이지로</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-3"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#5b5f6b",
-            "overlayOpacity": 0.95,
-            "slides": [
-              {
-                "active": false,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "산업통상자원부에서 소개!",
-                "image": "@PROJECT_PATH@/assets/images/001-560x560.jpg",
-                "contentAlign": "center",
-                "text": "공유경제의 새로운 모습으로 정부부처인 산업통상자원부에서 국민도서관 책꽂이를 소개하고 있습니다.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "active": false,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "image": "@PROJECT_PATH@/assets/images/002-560x560.jpg",
-                "title": "이사할 때 책은?",
-                "contentAlign": "center",
-                "text": "이사할 때, 책짐은 큰 부담이 되지요? 아끼는 책들인데... 그때 국민도서관 책꽂이가 도와드립니다!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "active": false,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "image": "@PROJECT_PATH@/assets/images/003-560x560.jpg",
-                "title": "자식같은 내 책들, 못팔아!",
-                "contentAlign": "center",
-                "text": "아끼지 않는 책은 헌책방에 팔아도, 아끼는 책은 국민도서관 책꽂이에 맡기세요.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "active": false,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "책을 안전하게 보관!",
-                "image": "@PROJECT_PATH@/assets/images/004-560x560.jpg",
-                "contentAlign": "center",
-                "text": "책좀 있는 사람들은 이미 사용하고 있어요. 1000권까지 저렴하게 맡길 수 있죠.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "active": false,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "일석이조. 용돈도 벌어요.",
-                "image": "@PROJECT_PATH@/assets/images/005-560x560.jpg",
-                "contentAlign": "center",
-                "text": "맡겨놓은 책을 다른 사람들이 빌려가면 크레딧이 쌓여서 용돈도 벌 수 있죠. 114만원 번 사람도 나타났어요!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "active": true,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "114만원의 실계좌!",
-                "image": "@PROJECT_PATH@/assets/images/000-1-630x412.png",
-                "contentAlign": "center",
-                "text": "블로그에 소개된 분의 계좌입니다. 블로그 쓸 때보다 시간이 지나서 더 벌게 되신거죠.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-0"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=kbaK-rQQUAQ",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "<p>국민도서관 책꽂이에 책을 맡기면 이렇게 잘 보관됩니다.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-1"
-        },
-        {
-          "_style": {
-            ".mbr-figure-caption": {
-              "background-color": "#616161"
-            }
-          },
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#ecf0f1"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://youtu.be/j6EXezdHdsk?t=3",
-              "autoplay": false,
-              "loop": false,
-              "aspectratio": "16:9"
-            }
-          },
-          "text": "개그우먼 강유미님도 국민도서관 책꽂이에 책을 맡기고 계시죠. 맡기는 과정을 직접 동영상으로도 만들었네요!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2"
-        },
-        {
           "_params": {
             "showBullets": true,
             "fullWidth": false,
@@ -344,24 +251,12 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/800x800-800x800.png",
-                "alt": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "caption": "Type caption here",
-                "active": true,
-                "title": ""
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/800x800-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -372,8 +267,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/3-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/3-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/2-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1080x1080-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -384,8 +279,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/4-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/4-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/3-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1080x1080-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -396,8 +291,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/5-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/5-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/4-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1080x1080-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
@@ -408,35 +303,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/6-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/6-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/5-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1080x1080-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/7-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/7-800x800-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/1-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1-800x800-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "title": ""
               }
             ]
@@ -450,46 +321,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-4"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "contentAlign": "left",
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1281.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": 0.5
-          },
-          "title": "[체험담]책 공유 서비스 국민도서관\n",
-          "text": "[출처] 책 공유 서비스 국민도서관|작성자 윤",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://blog.naver.com/dotyun/221358117706\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">키핑 체험담을 읽어볼까요?</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-6"
         },
         {
           "_styles": {
@@ -524,9 +355,9 @@
           "subtitle2": "subtitle",
           "subtitle3": "subtitle",
           "subtitle4": "subtitle",
-          "number1": "144867",
-          "number2": "11925",
-          "number3": "100360",
+          "number1": "151555",
+          "number2": "13066",
+          "number3": "110142",
           "_tags": [
             "Theme"
           ],
@@ -539,7 +370,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">국민도서관 책꽂이 사이트로</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"http://keeping.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">키핑안내 페이지로</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.bookoob.co.kr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">국민도서관 책꽂이 사이트로</a> ",
           "_tags": [
             "Theme"
           ],
