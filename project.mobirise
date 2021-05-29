@@ -86,9 +86,9 @@
               "loop": false
             }
           },
-          "title": "돈걱정 없는\n<div>독서생활\n</div><div>이제 당신도!</div>",
+          "title": "경제적 부담없는\n<div>독서생활\n</div><div>이제 당신도!</div>",
           "text": "책읽기 만큼은 아무런 부담없이 자유롭게 할 수 있어야 합니다.<br>국민도서관 책꽂이를 통해 자유를 만끽해보세요!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>국민도서관 책꽂이로 이동&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>국민도서관 책꽂이로&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -348,16 +348,16 @@
             "overlayOpacity": 0.75
           },
           "title1": "총 장서수",
-          "title2": "총 대여횟수",
-          "title3": "총 대여권수",
+          "title2": "지금까지 대여횟수",
+          "title3": "지금까지 대여권수",
           "title4": "Videos",
           "subtitle1": "subtitle",
           "subtitle2": "subtitle",
           "subtitle3": "subtitle",
           "subtitle4": "subtitle",
-          "number1": "151555",
-          "number2": "13066",
-          "number3": "110142",
+          "number1": "179,444",
+          "number2": "16,982",
+          "number3": "140,982",
           "_tags": [
             "Theme"
           ],
@@ -420,7 +420,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2014~2020 (주)보리떡광주리-국민도서관 책꽂이",
+          "text": "Copyright (c) 2014~2021 (주)보리떡광주리-국민도서관 책꽂이",
           "_tags": [
             "Theme"
           ],
